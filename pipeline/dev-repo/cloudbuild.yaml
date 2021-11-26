@@ -1,6 +1,5 @@
 # [START cloudbuild]
 steps:
-
 # This step builds the container image.
 - name: 'gcr.io/cloud-builders/docker'
   id: Build

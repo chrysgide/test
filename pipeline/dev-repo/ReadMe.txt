@@ -16,3 +16,5 @@ Description
     
 5- app.py
     Ce fichier contient un simple code python
+
+NB: L'ayant exécuté dans un environnement GCP, certains variables d'environnement était directement uploader.
